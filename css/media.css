@@ -20,9 +20,10 @@
     }
     .circle_area_txt {
         padding-left: 12%;
+        width: 129%;
     }
     .feature-txt.duplicate {
-        margin-top: 598px;
+        margin-top: 521px;
     }
     #btn_1.btn.btn-md.btn-warning {
         left: 73px;
@@ -162,7 +163,8 @@
         font-size: 13px;
     }
     .circle_area_txt {
-        padding-left: 8%;
+        padding-left: 10%;
+        width: 126%;
     }
     .feature-txt.duplicate {
         margin-top: 397px;
